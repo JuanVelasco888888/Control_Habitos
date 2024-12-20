@@ -1,0 +1,20 @@
+Explicación General del Proyecto 🌟
+El Control de Hábitos es un sistema de base de datos desarrollado con MySQL que permite gestionar y supervisar los hábitos de los usuarios registrados. Este proyecto está diseñado para ofrecer una solución eficiente para el seguimiento de actividades diarias, semanales o mensuales, facilitando el análisis de comportamiento y promoviendo el desarrollo personal.
+
+Propósito 🎯
+El proyecto tiene como objetivo principal proporcionar una herramienta estructurada para:
+
+Administrar hábitos: Permite a los usuarios registrar actividades y establecer horarios para su realización.
+Fomentar el cumplimiento: A través del seguimiento, los usuarios pueden verificar si han logrado completar sus hábitos y reflexionar sobre su desempeño.
+Generar datos útiles: Ofrece un registro detallado de actividades, horarios y estados que puede ser analizado para mejorar el rendimiento personal.
+Público Objetivo 🧑‍🤝‍🧑
+Este sistema es ideal para:
+
+Personas interesadas en mejorar su productividad y organización personal.
+Profesionales que buscan registrar y analizar sus rutinas diarias.
+Empresas o instituciones que desean implementar programas de seguimiento de actividades para sus empleados o clientes.
+Características Principales 🚀
+Gestión de Usuarios: Registro de datos personales como nombre, edad y correo electrónico.
+Planificación de Hábitos: Asociación de actividades con horarios definidos.
+Monitoreo de Cumplimiento: Registro del estado de cada hábito y evaluación de satisfacción.
+Estructura Modular: Base de datos organizada en tablas relacionadas, optimizando consultas y gestión de información.
